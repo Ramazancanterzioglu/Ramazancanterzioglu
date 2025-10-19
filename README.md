@@ -108,11 +108,5 @@ It automatically detects tasks discussed during meetings, adds them to the calen
 
 ---
 
-## 💻 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ramazancanterzioglu?theme=dark&font=Nunito&ext=heatmap" alt="Ramazan's LeetCode Stats">
-</p>
-
----
 
 ✨ *“Passionate about building intelligent systems that learn, adapt, and create impact.”*  
